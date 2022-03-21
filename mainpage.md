@@ -19,10 +19,12 @@
     border-width: 7px
   }
   img{
-    height: 777px;
+    height: 333px;
+    width: 333px;
   }
   table{
     color: #61A4BC;
+    background-color: #5B7DB1;
   }
 </style>
 
