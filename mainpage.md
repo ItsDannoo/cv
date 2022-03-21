@@ -24,7 +24,9 @@
   }
   table{
     color: #61A4BC;
-    background-color: #5B7DB1;
+  }
+  tbody{
+    color: #5B7DB1;
   }
 </style>
 
