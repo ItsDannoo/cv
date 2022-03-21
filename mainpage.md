@@ -8,27 +8,7 @@
 <style>
   body{
     background-color: AntiqueWhite;
-  }
-</style>
-<style>
-  hr{
-    background-color: #5B7DB1;
-    height: 3px;
-    border-style: dotted none none;
-    border-color: black;
-    border-width: 7px
-  }
-  img{
-    height: 333px;
-    width: 666px;
-  }
-  table{
-    color: #61A4BC;
-  }
-  tbody{
-    color: #5B7DB1;
-  }
-</style>
+<link rel="stylesheet" href="styles.css">
 
 </head>
 
