@@ -20,7 +20,7 @@
   }
   img{
     height: 333px;
-    width: 333px;
+    width: 666px;
   }
   table{
     color: #61A4BC;
