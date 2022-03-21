@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en" dir="ltr">
 
 <head>
@@ -65,11 +65,12 @@
   <hr size="3" noshade>
   <h3>Work Experiencie</h3>
   <table>
-    <thead>
+   <thead>
       <tr>
         <th>Dates</th>
         <th>work</th>
       </tr>
+     </thead>
     <tbody>
       <tr>
         <td>2022-2023</td>
@@ -77,9 +78,9 @@
       </tr>
       <td>2020-2021</td>
       <td>Bilingual customer service at <strong><a href="https://teleperformance.com/">Teleperformance</a></strong></td>
-
-
+    </tbody>  
   </table>
+  
   <hr size="3" noshade>
   <h3>Skills</h3>
   <table cellspacing="10">
@@ -97,7 +98,3 @@
   </table>
   <hr size="3" noshade>
 
-
-</body>
-
-</html>
