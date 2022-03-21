@@ -21,6 +21,9 @@
   img{
     height: 333px;
   }
+  table{
+    background-color: #61A4BC;
+  }
 </style>
 
 </head>
